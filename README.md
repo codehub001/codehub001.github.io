@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This repository contains the source code for my interactive portfolio, where I showcase my skills, projects, and professional journey. Feel free to explore, contribute, or use it as inspiration for your own portfolio.
 
 ## 🌟 Live Demo
-🔗 **[View My Portfolio](https://your-portfolio-link.com)**  
+🔗 **[View My Portfolio](codehub001.github.io)**  
 
 ## 📌 Features
 - Responsive and dynamic UI
@@ -57,8 +57,7 @@ Contributions are welcome! If you’d like to improve this project, follow these
 5. Open a Pull Request
 
 ## 📬 Contact
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/codehub01/)
+- 🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/codehub01/)
   
 
 ⭐ **If you like this project, don't forget to star the repo!** ⭐
