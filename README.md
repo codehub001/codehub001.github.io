@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This repository contains the source code for my interactive portfolio, where I showcase my skills, projects, and professional journey. Feel free to explore, contribute, or use it as inspiration for your own portfolio.
 
 ## 🌟 Live Demo
-🔗 **[View My Portfolio](codehub001.github.io)**  
+🔗 **[View My Portfolio](https://codehub001.github.io)**  
 
 ## 📌 Features
 - Responsive and dynamic UI
